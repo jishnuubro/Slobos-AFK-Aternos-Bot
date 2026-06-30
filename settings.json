@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "7upAFKB0T",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "topic-musical.gl.joinmc.link",
+    "ip": "making-boring.gl.joinmc.link",
     "port": 25565,
     "version": "",
     "try-creative": false
