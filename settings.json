@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "kcmscsmp.mcsh.io",
+    "ip": "kcmscserver.mcsh.io",
     "port": 25565,
     "version": "",
     "try-creative": false
